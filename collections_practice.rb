@@ -46,7 +46,3 @@ def add_s(array)
     end
 }
 end
-
-
-x = ["hand","feet", "knee", "table"]
-add_s(x)
